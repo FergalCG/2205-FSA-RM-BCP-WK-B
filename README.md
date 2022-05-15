@@ -139,14 +139,14 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 **[Review](https://youtu.be/kYe2oNQmO04)**
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)
+[Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)-->
 
 
 ## **09 Objects**
 
-**[Live Lecture + Review](https://youtu.be/8WO9DpQIPcs)**
-
 [Lecture Slides](Lecture-Slides/09-Objects.pptx)
+
+<!--**[Live Lecture + Review](https://youtu.be/8WO9DpQIPcs)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
