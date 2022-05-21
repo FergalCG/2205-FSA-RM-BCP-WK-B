@@ -15,13 +15,13 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
 9. [Objects](#09-objects)
-<!--10. [Object Methods](#10-object-methods)
+10. [Object Methods](#10-object-methods)
 11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
 12. [Higher Order Functions I](#12-higher-order-functions-i)
 13. [Higher Order Functions II](#13-higher-order-functions-ii)
 14. [Recursion I](#14-recursion-i)
 15. [Recursion II](#15-recursion-ii)
-16. [Next Steps](#16-next-steps)-->
+<!--16. [Next Steps](#16-next-steps)-->
 
 ## Additional Resources
 
@@ -137,16 +137,16 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Lecture Slides](Lecture-Slides/08-BCP-Sudoku.pptx)
 
-<!--**[Review](https://youtu.be/kYe2oNQmO04)**
+**[Review](https://youtu.be/kYe2oNQmO04)**
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)-->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)
 
 
 ## **09 Objects**
 
 [Lecture Slides](Lecture-Slides/09-Objects.pptx)
 
-<!--**[Live Lecture + Review](https://youtu.be/8WO9DpQIPcs)**
+**[Live Lecture + Review](https://youtu.be/8WO9DpQIPcs)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
@@ -195,25 +195,25 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **14 Recursion I**
 
-**[Live Lecture + Review](https://youtu.be/J5lk5cmJlkM)**
-
-[Lecture Slides](Lecture-Slides/14-Recursion-I.pptx)
-
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)
+<!--[Lecture Slides](Lecture-Slides/14-Recursion-I.pptx)
+
+**[Live Lecture + Review](https://youtu.be/J5lk5cmJlkM)**
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)-->
 
 ## **15 Recursion II**
 
-**[Live Lecture + Review](https://youtu.be/zBghZMnA0mk)**
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
+
+<!--**[Live Lecture + Review](https://youtu.be/zBghZMnA0mk)**
 
 [Lecture Slides](Lecture-Slides/15-Recursion-II.pptx)
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6428/text)-->
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6428/text)
-
-## **16 Next Steps**
+<!--## **16 Next Steps**
 
 **[Live Lecture](https://youtu.be/vcxvM_paMKI)**
 
