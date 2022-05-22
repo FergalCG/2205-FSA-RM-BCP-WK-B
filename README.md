@@ -197,21 +197,21 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
 
-<!--[Lecture Slides](Lecture-Slides/14-Recursion-I.pptx)
+[Lecture Slides](Lecture-Slides/14-Recursion-I.pptx)
 
 **[Live Lecture + Review](https://youtu.be/J5lk5cmJlkM)**
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)-->
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)
 
 ## **15 Recursion II**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
 
-<!--**[Live Lecture + Review](https://youtu.be/zBghZMnA0mk)**
+**[Live Lecture + Review](https://youtu.be/zBghZMnA0mk)**
 
 [Lecture Slides](Lecture-Slides/15-Recursion-II.pptx)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6428/text)-->
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6428/text)
 
 <!--## **16 Next Steps**
 
